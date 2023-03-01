@@ -1,2 +1,1 @@
-# customPromise
-手写一个promise
+简单探究一下promise async/await 的实现
